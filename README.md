@@ -1,20 +1,33 @@
-Construction Website (MERN Stack)
-This is a construction company website built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It includes a frontend for users to view services and projects, and a backend to handle contact form submissions and store them in MongoDB.
+🏗️ Construction Website — MERN Stack Project
+A professional and responsive Construction Company Website built using the MERN Stack — showcasing modern web development practices with full-stack capabilities.
 
-Features
-Responsive website with React.js
+🚀 Tech Stack
+Frontend: React.js + CSS
+Backend: Node.js + Express.js
+Database: MongoDB (with Mongoose)
 
-Pages: Home, About, Services, Projects, Contact
+✨ Key Features
+🖥️ Fully responsive and interactive UI using React
 
-Contact form with backend integration
+🧾 Pages: Home, About, Services, Projects, Contact
 
-Data stored in MongoDB
+📩 Contact form with real-time backend integration
 
-Express.js server and API routes
+💾 Data stored and managed in MongoDB
 
-Technologies Used
-Frontend: React.js, CSS
+🔗 Smooth navigation and UI animations
 
-Backend: Node.js, Express.js
-
-Database: MongoDB
+🧰 Project Structure
+bash
+Copy
+Edit
+Construction-Website/
+├── backend/          # Express.js API & MongoDB connection
+│   ├── routes/
+│   ├── models/
+│   └── server.js
+│
+├── frontend/         # React app
+│   ├── components/
+│   ├── pages/
+│   └── App.js
